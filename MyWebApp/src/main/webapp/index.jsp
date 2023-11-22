@@ -4,11 +4,6 @@
 <title>Some relevant title</title>
 </head>
 <body>
-	<h2>We are Integrating Nexus with Jenkins for uploading the WAR file!!</h2>
-	<h2>We are Integrating Nexus with Jenkins for uploading the WAR file!!</h2>
-	<h2>We are Integrating Nexus with Jenkins for uploading the WAR file!!</h2>
-	<h2>We are Integrating Nexus with Jenkins for uploading the WAR file!!</h2>
-	<h2>We are Integrating Nexus with Jenkins for uploading the WAR file!!</h2>
-
+	<h2>We are Integrating Slack from Jenkins for sending push notifications for every build success/failure(Continuos Feedbak)!!!</h2>
 </body>
 </html>
