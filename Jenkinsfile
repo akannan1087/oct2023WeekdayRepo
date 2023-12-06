@@ -84,7 +84,7 @@ pipeline {
     
     stage ("PO-Notify") {
         steps {
-            slackSend channel: 'oct-2023-weekday-batch,qa-testing-team,product-owners-teams', message: 'PROD Deployment was done, please inform end customers..'
+            slackSend channel: 'qa-testing-team,product-owners-teams', message: 'PROD Deployment was done, please inform end customers..'
          }
         }
 
