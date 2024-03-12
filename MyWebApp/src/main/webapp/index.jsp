@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Some relevant title</title>
-</head>
+<html>
 <body>
-	<h2> We are integrating with Slack from Azure Devops pipeline!!!</h2>
+	<h2> We are integrating Sonar with GitHub Actions!!!</h2>
 </body>
 </html>
